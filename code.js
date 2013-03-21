@@ -6,6 +6,7 @@
 
 	$('#homepageButton').click(function(){
 
+		$(".everythingButHomepage").hide('slow');
 		$("#menuDiv").hide('slow');
 		$("#homepageDiv").show('slow');
 		$('#advertisements').show('slow');
@@ -26,23 +27,23 @@
 	
 	$('#quizModeButton').click(function(){
 
-		$('#menuDiv').hide();
-		$('#quizModeDiv').show();
+		$('#menuDiv').hide('slow');
+		$('#quizModeDiv').show('slow');
 		setUpQuiz();
 
 	});
 	
 	$('#challengeModeButton').click(function(){
 
-		$('#menuDiv').hide();
-		$('#challengeModeDiv').show();
+		$('#menuDiv').hide('slow');
+		$('#challengeModeDiv').show('slow');
 		
 	});
 	
 	$('#bonusModeButton').click(function(){
 
-		$('#menuDiv').hide();
-		$('#bonusModeDiv').show();
+		$('#menuDiv').hide('slow');
+		$('#bonusModeDiv').show('slow');
 		
 	});
 
