@@ -6,19 +6,19 @@
 
 	$('#homepageButton').click(function(){
 
-		$("#menuDiv").hide();
-		$("#homepageDiv").show();
-		$('#advertisements').show();
-		$('#authors').show();
+		$("#menuDiv").hide('slow');
+		$("#homepageDiv").show('slow');
+		$('#advertisements').show('slow');
+		$('#authors').show('slow');
 
 	});
 
 	$('#playButton').click(function(){
 		
-		$("#homepageDiv").hide();
-		$("#menuDiv").show();
-		$('#advertisements').hide();
-		$('#authors').hide();
+		$("#homepageDiv").hide('slow');
+		$("#menuDiv").show('slow');
+		$('#advertisements').hide('slow');
+		$('#authors').hide('slow');
 		
 	});
 
