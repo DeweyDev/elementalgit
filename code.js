@@ -8,6 +8,8 @@
 
 		$("#menuDiv").hide();
 		$("#homepageDiv").show();
+		$('#advertisements').show();
+		$('#authors').show();
 
 	});
 
@@ -15,6 +17,8 @@
 		
 		$("#homepageDiv").hide();
 		$("#menuDiv").show();
+		$('#advertisements').hide();
+		$('#authors').hide();
 		
 	});
 
@@ -49,7 +53,7 @@
 		/*...SET RANDOM NUMBER SEQUENCE HERE...*/
 
 			var randomSetCounter;
-			var arrayOfRandom[14];
+			//var arrayOfRandom[14];
 
 			/*
 			for(randomSetCounter = 0; randomSetCounter < 15; randomSetCounter++){
