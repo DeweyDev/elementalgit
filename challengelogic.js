@@ -8,7 +8,9 @@ FOR NOW JUST DONT TOUCH IT
 
 */
 
-H.setToolTipText("a part of water");
+$('.challengeModeInputs').change(function() {
+ 
+      H.setToolTipText("a part of water");
       He.setToolTipText("used to fill balloons");
       Li.setToolTipText("used in batteries");
       Be.setToolTipText("contains four electrons, two of which are valence electrons");
@@ -1431,3 +1433,6 @@ H.setToolTipText("a part of water");
            default: Zr.setBackground(Color.red);
        }
        //LOGIC FOR THE Zr OVER
+       
+ 
+});
