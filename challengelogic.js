@@ -10,124 +10,124 @@ FOR NOW JUST DONT TOUCH IT
 
 $('.challengeModeInputs').change(function() {
  
-      H.setToolTipText("a part of water");
-      He.setToolTipText("used to fill balloons");
-      Li.setToolTipText("used in batteries");
-      Be.setToolTipText("contains four electrons, two of which are valence electrons");
-      B.setToolTipText("lightest alkaline earth metal");
-      C.setToolTipText("is a part of all living organisms");
-      N.setToolTipText("is 78% of earth's atmosphere");
-      O.setToolTipText("source of life in the atmosphere");
-      F.setToolTipText("used in toothpaste to prevent tooth decay");
-      Ne.setToolTipText("fourth most abundant element in the universe");
-      Na.setToolTipText("used for common salt");
-      Mg.setToolTipText("very abundant in nature, mainly in rocky minerals");
-      Al.setToolTipText("used for cans and foils");
-      Si.setToolTipText("used as a lubricante");
-      P.setToolTipText("main use in pesticidees and fertilizers");
-      S.setToolTipText("main component of gunpowder");
-      Cl.setToolTipText("a pool consists of this in its water");
-      Ar.setToolTipText("used in electric and flourescent light bulbs");
-      K.setToolTipText("a low sodium salt found alot in bananas");
-      Ca.setToolTipText("found in milk and meat");
-      Sc.setToolTipText("a component of alloys used to make metallic baseball bats");
-      Ti.setToolTipText("a major steel or metal used in many products");
-      V.setToolTipText("This element is the only element beegining with a V");
-      Cr.setToolTipText("The element containing the second word in the google search browser");
-      Mn.setToolTipText("The element which name is similar to that of element 12");
-      Fe.setToolTipText("an extremely commonly used steel");
-      Co.setToolTipText("used in magnet steels and stainless steels");
-      Ni.setToolTipText("A common five cent coin");
-      Cu.setToolTipText("extremely common in wires and coins");
-      Zn.setToolTipText("A common ingredient in suntan lotion");
-      Ga.setToolTipText("a soft, silvery metal");
-      Ge.setToolTipText("A grayish-white metalloid in the Carbon group");
-      As.setToolTipText("A pure elemental crystal");
-      Se.setToolTipText("found impurely in metal sulfide ores");
-      Br.setToolTipText("a fuming red-brown liquid at room temperature");
-      Kr.setToolTipText("used in lighting and photography");
-      Rb.setToolTipText("very rapid oxidation in air");
-      Sr.setToolTipText("metal turns yellow when exposed to air");
-      Y.setToolTipText("used in television set cathode ray tube displays");
-      Zr.setToolTipText("the name is taken from the moneral zircon");
-      Nb.setToolTipText("similar to the element tantalum");
-      Mo.setToolTipText("does not occur natually as a metal on earth");
-      Tc.setToolTipText("The lowest atomic number with no stable isotopes");
-      Ru.setToolTipText("occurs as a minor component of platinum");
-      Rh.setToolTipText("one of the rarest precious metals");
-      Pd.setToolTipText("was named after the asteroid Pallas");
-      Ag.setToolTipText("has the highest electrical and thermal conductivity of any element as well as being very commonly used in jewelry");
-      Cd.setToolTipText("a soft, bluish-white metal");
-      In.setToolTipText("a very rare, malleable element");
-      Sn.setToolTipText("one of hte most common metals");
-      Sb.setToolTipText("a lustrous, gray metalloid");
-      Te.setToolTipText("extremely rare on earth");
-      I.setToolTipText("primarily used in nutrition");
-      Xe.setToolTipText("a colorless, odorless gas that occurs in the earth's atmosphere");
-      Cs.setToolTipText("melting point at room temperature (one of five elements)");
-      Ba.setToolTipText("never found in nature as a free element");
-      Hf.setToolTipText("predicted by Dimitri Mendeleev in 1869");
-      Ta.setToolTipText("the name comes from Tantalus, a greek mythological creature");
-      W.setToolTipText("is also known as wolfram");
-      Re.setToolTipText("one of the rarest elements in the earth's crust");
-      Os.setToolTipText("the densest natural occuring element");
-      Ir.setToolTipText("is the second densest element");
-      Pt.setToolTipText("the least radioactive metaal and extremely expensive");
-      Au.setToolTipText("used in a lot of currency of the years");
-      Hg.setToolTipText("same name as the first planet in orbit");
-      Tl.setToolTipText("salts of this element is extremely toxic");
-      Pb.setToolTipText("used as a radiation shield");
-      Bi.setToolTipText("contains one of the lowest thermal conductivities");
-      Po.setToolTipText("is used in heaters in space probes");
-      At.setToolTipText("only occurs on earth as the radioactively decayed end result of higher elements");
-      Rn.setToolTipText("considered a health hazard due to radiation");
-      Fr.setToolTipText("one of the two least electronegative elements");
-      Ra.setToolTipText("is luminescient and glows a faint blue");
-      Rf.setToolTipText("this is not found in nature");
-      Db.setToolTipText("named after the town of Dubna in Russia");
-      Sg.setToolTipText("has one of the lowest half-lives");
-      Bh.setToolTipText("is a d-block transactinide element");
-      Hs.setToolTipText("n bulk quantities, it is expected to be a silvery metal ");
-      Mt.setToolTipText("named after the physicist Lise Meitner");
-      Ds.setToolTipText("named after the city of Darmstadt, where it was discovered");
-      Rg.setToolTipText(" is calculated to have similar properties to copper, silver, and gold");
-      Uub.setToolTipText("unknown b");
-      Uut.setToolTipText("unknown t");
-      Uuq.setToolTipText("unknown q");
-      Uup.setToolTipText("unknown p");
-      Uuh.setToolTipText("unknown h");
-      Uus.setToolTipText("unknown s");
-      Uuo.setToolTipText("unknown o");
-      La.setToolTipText("is a malleable, ductile, and soft metal when exposed to air");
-      Ce.setToolTipText("named after the dwarf planet Ceres");
-      Pr.setToolTipText("too reactive to be found in native form");
-      Nd.setToolTipText("is widely distributed in the Earth's crust");
-      Pm.setToolTipText("forms salts when combined with other elements");
-      Sm.setToolTipText("can withstand significantly higher temperatures, above 700 °C, without losing their magnetic properties");
-      Eu.setToolTipText("is a moderately hard, silvery metal which readily oxidizes in air and water");
-      Gd.setToolTipText("It is a silvery-white, malleable and ductile rare-earth metal");
-      Tb.setToolTipText("is of use in actuators, in naval sonar systems and in sensors");
-      Dy.setToolTipText("used for its high thermal neutron absorption cross-section in making control rods in nuclear reactors");
-      Ho.setToolTipText("it reacts with water and rusts readily, and will also burn in air when heated");
-      Er.setToolTipText("A silvery-white solid metal when artificially isolated");
-      Tm.setToolTipText("It is an easily workable metal with a bright silvery-gray luster");
-      Yb.setToolTipText("mainly used as a dopant of stainless steel or active laser media");
-      Lu.setToolTipText("is the last element in the lanthanide series, and traditionally counted among the rare earths");
-      Ac.setToolTipText("soft, silvery-white radioactive metal");
-      Th.setToolTipText("produces a radioactive gas, radon-220, as one of its decay products");
-      Pa.setToolTipText("has a half-life of 32,760 years");
-      U.setToolTipText("most common radioactive element");
-      Np.setToolTipText("the name taken from the 8th planet from the sun");
-      Pu.setToolTipText("the name taken from the 9th planet from the sun");
-      Am.setToolTipText("produced by bombarding uranium or plutonium with neutrons in nuclear reactors");
-      Cm.setToolTipText("radioactive and has a small critical mass for a sustained nuclear chain reaction");
-      Bk.setToolTipText("Just over one gram of this has been produced in the United States since 1967");
-      Cf.setToolTipText("The element was named after California and the University of California");
-      Es.setToolTipText("named for einstein");
-      Fm.setToolTipText("A total of 19 isotopes are known");
-      Md.setToolTipText("named after dimitri mendeleev");
-      No.setToolTipText(" first correctly identified in 1966 by scientists at the Flerov Laboratory of Nuclear Reactions in Dubna, Soviet Union");
-      Lr.setToolTipText("first synthesized by the nuclear-physics team led by Albert Ghiorso on February 14, 1961");
+      H.attr("title","a part of water");
+      He.attr("title","used to fill balloons");
+      Li.attr("title","used in batteries");
+      Be.attr("title","contains four electrons, two of which are valence electrons");
+      B.attr("title","lightest alkaline earth metal");
+      C.attr("title","is a part of all living organisms");
+      N.attr("title","is 78% of earth's atmosphere");
+      O.attr("title","source of life in the atmosphere");
+      F.attr("title","used in toothpaste to prevent tooth decay");
+      Ne.attr("title","fourth most abundant element in the universe");
+      Na.attr("title","used for common salt");
+      Mg.attr("title","very abundant in nature, mainly in rocky minerals");
+      Al.attr("title","used for cans and foils");
+      Si.attr("title","used as a lubricante");
+      P.attr("title","main use in pesticidees and fertilizers");
+      S.attr("title","main component of gunpowder");
+      Cl.attr("title","a pool consists of this in its water");
+      Ar.attr("title","used in electric and flourescent light bulbs");
+      K.attr("title","a low sodium salt found alot in bananas");
+      Ca.attr("title","found in milk and meat");
+      Sc.attr("title","a component of alloys used to make metallic baseball bats");
+      Ti.attr("title","a major steel or metal used in many products");
+      V.attr("title","This element is the only element beegining with a V");
+      Cr.attr("title","The element containing the second word in the google search browser");
+      Mn.attr("title","The element which name is similar to that of element 12");
+      Fe.attr("title","an extremely commonly used steel");
+      Co.attr("title","used in magnet steels and stainless steels");
+      Ni.attr("title","A common five cent coin");
+      Cu.attr("title","extremely common in wires and coins");
+      Zn.attr("title","A common ingredient in suntan lotion");
+      Ga.attr("title","a soft, silvery metal");
+      Ge.attr("title","A grayish-white metalloid in the Carbon group");
+      As.attr("title","A pure elemental crystal");
+      Se.attr("title","found impurely in metal sulfide ores");
+      Br.attr("title","a fuming red-brown liquid at room temperature");
+      Kr.attr("title","used in lighting and photography");
+      Rb.attr("title","very rapid oxidation in air");
+      Sr.attr("title","metal turns yellow when exposed to air");
+      Y.attr("title","used in television set cathode ray tube displays");
+      Zr.attr("title","the name is taken from the moneral zircon");
+      Nb.attr("title","similar to the element tantalum");
+      Mo.attr("title","does not occur natually as a metal on earth");
+      Tc.attr("title","The lowest atomic number with no stable isotopes");
+      Ru.attr("title","occurs as a minor component of platinum");
+      Rh.attr("title","one of the rarest precious metals");
+      Pd.attr("title","was named after the asteroid Pallas");
+      Ag.attr("title","has the highest electrical and thermal conductivity of any element as well as being very commonly used in jewelry");
+      Cd.attr("title","a soft, bluish-white metal");
+      In.attr("title","a very rare, malleable element");
+      Sn.attr("title","one of hte most common metals");
+      Sb.attr("title","a lustrous, gray metalloid");
+      Te.attr("title","extremely rare on earth");
+      I.attr("title","primarily used in nutrition");
+      Xe.attr("title","a colorless, odorless gas that occurs in the earth's atmosphere");
+      Cs.attr("title","melting point at room temperature (one of five elements)");
+      Ba.attr("title","never found in nature as a free element");
+      Hf.attr("title","predicted by Dimitri Mendeleev in 1869");
+      Ta.attr("title","the name comes from Tantalus, a greek mythological creature");
+      W.attr("title","is also known as wolfram");
+      Re.attr("title","one of the rarest elements in the earth's crust");
+      Os.attr("title","the densest natural occuring element");
+      Ir.attr("title","is the second densest element");
+      Pt.attr("title","the least radioactive metaal and extremely expensive");
+      Au.attr("title","used in a lot of currency of the years");
+      Hg.attr("title","same name as the first planet in orbit");
+      Tl.attr("title","salts of this element is extremely toxic");
+      Pb.attr("title","used as a radiation shield");
+      Bi.attr("title","contains one of the lowest thermal conductivities");
+      Po.attr("title","is used in heaters in space probes");
+      At.attr("title","only occurs on earth as the radioactively decayed end result of higher elements");
+      Rn.attr("title","considered a health hazard due to radiation");
+      Fr.attr("title","one of the two least electronegative elements");
+      Ra.attr("title","is luminescient and glows a faint blue");
+      Rf.attr("title","this is not found in nature");
+      Db.attr("title","named after the town of Dubna in Russia");
+      Sg.attr("title","has one of the lowest half-lives");
+      Bh.attr("title","is a d-block transactinide element");
+      Hs.attr("title","n bulk quantities, it is expected to be a silvery metal ");
+      Mt.attr("title","named after the physicist Lise Meitner");
+      Ds.attr("title","named after the city of Darmstadt, where it was discovered");
+      Rg.attr("title"," is calculated to have similar properties to copper, silver, and gold");
+      Uub.attr("title","unknown b");
+      Uut.attr("title","unknown t");
+      Uuq.attr("title","unknown q");
+      Uup.attr("title","unknown p");
+      Uuh.attr("title","unknown h");
+      Uus.attr("title","unknown s");
+      Uuo.attr("title","unknown o");
+      La.attr("title","is a malleable, ductile, and soft metal when exposed to air");
+      Ce.attr("title","named after the dwarf planet Ceres");
+      Pr.attr("title","too reactive to be found in native form");
+      Nd.attr("title","is widely distributed in the Earth's crust");
+      Pm.attr("title","forms salts when combined with other elements");
+      Sm.attr("title","can withstand significantly higher temperatures, above 700 °C, without losing their magnetic properties");
+      Eu.attr("title","is a moderately hard, silvery metal which readily oxidizes in air and water");
+      Gd.attr("title","It is a silvery-white, malleable and ductile rare-earth metal");
+      Tb.attr("title","is of use in actuators, in naval sonar systems and in sensors");
+      Dy.attr("title","used for its high thermal neutron absorption cross-section in making control rods in nuclear reactors");
+      Ho.attr("title","it reacts with water and rusts readily, and will also burn in air when heated");
+      Er.attr("title","A silvery-white solid metal when artificially isolated");
+      Tm.attr("title","It is an easily workable metal with a bright silvery-gray luster");
+      Yb.attr("title","mainly used as a dopant of stainless steel or active laser media");
+      Lu.attr("title","is the last element in the lanthanide series, and traditionally counted among the rare earths");
+      Ac.attr("title","soft, silvery-white radioactive metal");
+      Th.attr("title","produces a radioactive gas, radon-220, as one of its decay products");
+      Pa.attr("title","has a half-life of 32,760 years");
+      U.attr("title","most common radioactive element");
+      Np.attr("title","the name taken from the 8th planet from the sun");
+      Pu.attr("title","the name taken from the 9th planet from the sun");
+      Am.attr("title","produced by bombarding uranium or plutonium with neutrons in nuclear reactors");
+      Cm.attr("title","radioactive and has a small critical mass for a sustained nuclear chain reaction");
+      Bk.attr("title","Just over one gram of this has been produced in the United States since 1967");
+      Cf.attr("title","The element was named after California and the University of California");
+      Es.attr("title","named for einstein");
+      Fm.attr("title","A total of 19 isotopes are known");
+      Md.attr("title","named after dimitri mendeleev");
+      No.attr("title"," first correctly identified in 1966 by scientists at the Flerov Laboratory of Nuclear Reactions in Dubna, Soviet Union");
+      Lr.attr("title","first synthesized by the nuclear-physics team led by Albert Ghiorso on February 14, 1961");
       
       
       
@@ -137,1300 +137,1300 @@ $('.challengeModeInputs').change(function() {
       
       
        //LOGIC FOR THE H
-       String inputH = H.getText();    
+       var inputH = H.val();    
        switch(inputH){
-           case "" : H.setBackground(Color.white);
+           case "" : H.css("background-color","white");
            break;
-           case "H":  H.setBackground(Color.green);
+           case "H":  H.css("background-color","green");
            break;
-           default: H.setBackground(Color.red);
+           default: H.css("background-color","red");
        }
        //LOGIC FOR THE H OVER
        
        //LOGIC FOR THE Ac
-       String inputAc = Ac.getText();    
+       var inputAc = Ac.val();    
        switch(inputAc){
-           case "" : Ac.setBackground(Color.white);
+           case "" : Ac.css("background-color","white");
            break;
-           case "Ac":  Ac.setBackground(Color.green);
+           case "Ac":  Ac.css("background-color","green");
            break;
-           default: Ac.setBackground(Color.red);
+           default: Ac.css("background-color","red");
        }
        //LOGIC FOR THE Ac OVER
        
        //LOGIC FOR THE Ag
-       String inputAg = Ag.getText();    
+       var inputAg = Ag.val();    
        switch(inputAg){
-           case "" : Ag.setBackground(Color.white);
+           case "" : Ag.css("background-color","white");
            break;
-           case "Ag":  Ag.setBackground(Color.green);
+           case "Ag":  Ag.css("background-color","green");
            break;
-           default: Ag.setBackground(Color.red);
+           default: Ag.css("background-color","red");
        }
        //LOGIC FOR THE Ag OVER
        
        //LOGIC FOR THE Al
-       String inputAl = Al.getText();    
+       var inputAl = Al.val();    
        switch(inputAl){
-           case "" : Al.setBackground(Color.white);
+           case "" : Al.css("background-color","white");
            break;
-           case "Al":  Al.setBackground(Color.green);
+           case "Al":  Al.css("background-color","green");
            break;
-           default: Al.setBackground(Color.red);
+           default: Al.css("background-color","red");
        }
        //LOGIC FOR THE Al OVER
        
        //LOGIC FOR THE Am
-       String inputAm = Am.getText();    
+       var inputAm = Am.val();    
        switch(inputAm){
-           case "" : Am.setBackground(Color.white);
+           case "" : Am.css("background-color","white");
            break;
-           case "Am":  Am.setBackground(Color.green);
+           case "Am":  Am.css("background-color","green");
            break;
-           default: Am.setBackground(Color.red);
+           default: Am.css("background-color","red");
        }
        //LOGIC FOR THE Am OVER
 
        //LOGIC FOR THE Ar
-       String inputAr = Ar.getText();    
+       var inputAr = Ar.val();    
        switch(inputAr){
-           case "" : Ar.setBackground(Color.white);
+           case "" : Ar.css("background-color","white");
            break;
-           case "Ar":  Ar.setBackground(Color.green);
+           case "Ar":  Ar.css("background-color","green");
            break;
-           default: Ar.setBackground(Color.red);
+           default: Ar.css("background-color","red");
        }
        //LOGIC FOR THE Ar OVER
 
        //LOGIC FOR THE As
-       String inputAs = As.getText();    
+       var inputAs = As.val();    
        switch(inputAs){
-           case "" : As.setBackground(Color.white);
+           case "" : As.css("background-color","white");
            break;
-           case "As":  As.setBackground(Color.green);
+           case "As":  As.css("background-color","green");
            break;
-           default: As.setBackground(Color.red);
+           default: As.css("background-color","red");
        }
        //LOGIC FOR THE As OVER
        
        //LOGIC FOR THE At
-       String inputAt = At.getText();    
+       var inputAt = At.val();    
        switch(inputAt){
-           case "" : At.setBackground(Color.white);
+           case "" : At.css("background-color","white");
            break;
-           case "At":  At.setBackground(Color.green);
+           case "At":  At.css("background-color","green");
            break;
-           default: At.setBackground(Color.red);
+           default: At.css("background-color","red");
        }
        //LOGIC FOR THE At OVER
        
        //LOGIC FOR THE Au
-       String inputAu = Au.getText();    
+       var inputAu = Au.val();    
        switch(inputAu){
-           case "" : Au.setBackground(Color.white);
+           case "" : Au.css("background-color","white");
            break;
-           case "Au":  Au.setBackground(Color.green);
+           case "Au":  Au.css("background-color","green");
            break;
-           default: Au.setBackground(Color.red);
+           default: Au.css("background-color","red");
        }
        //LOGIC FOR THE Au OVER
 
        //LOGIC FOR THE B
-       String inputB = B.getText();    
+       var inputB = B.val();    
        switch(inputB){
-           case "" : B.setBackground(Color.white);
+           case "" : B.css("background-color","white");
            break;
-           case "B":  B.setBackground(Color.green);
+           case "B":  B.css("background-color","green");
            break;
-           default: B.setBackground(Color.red);
+           default: B.css("background-color","red");
        }
        //LOGIC FOR THE B OVER
 
        //LOGIC FOR THE Ba
-       String inputBa = Ba.getText();    
+       var inputBa = Ba.val();    
        switch(inputBa){
-           case "" : Ba.setBackground(Color.white);
+           case "" : Ba.css("background-color","white");
            break;
-           case "Ba":  Ba.setBackground(Color.green);
+           case "Ba":  Ba.css("background-color","green");
            break;
-           default: Ba.setBackground(Color.red);
+           default: Ba.css("background-color","red");
        }
        //LOGIC FOR THE Ba OVER
        
         //LOGIC FOR THE Be
-       String inputBe = Be.getText();    
+       var inputBe = Be.val();    
        switch(inputBe){
-           case "" : Be.setBackground(Color.white);
+           case "" : Be.css("background-color","white");
            break;
-           case "Be":  Be.setBackground(Color.green);
+           case "Be":  Be.css("background-color","green");
            break;
-           default: Be.setBackground(Color.red);
+           default: Be.css("background-color","red");
        }
        //LOGIC FOR THE Be OVER
        
         //LOGIC FOR THE Bh
-       String inputBh = Bh.getText();    
+       var inputBh = Bh.val();    
        switch(inputBh){
-           case "" : Bh.setBackground(Color.white);
+           case "" : Bh.css("background-color","white");
            break;
-           case "Bh":  Bh.setBackground(Color.green);
+           case "Bh":  Bh.css("background-color","green");
            break;
-           default: Bh.setBackground(Color.red);
+           default: Bh.css("background-color","red");
        }
        //LOGIC FOR THE Bh OVER
        
         //LOGIC FOR THE Bi
-       String inputBi = Bi.getText();    
+       var inputBi = Bi.val();    
        switch(inputBi){
-           case "" : Bi.setBackground(Color.white);
+           case "" : Bi.css("background-color","white");
            break;
-           case "Bi":  Bi.setBackground(Color.green);
+           case "Bi":  Bi.css("background-color","green");
            break;
-           default: Bi.setBackground(Color.red);
+           default: Bi.css("background-color","red");
        }
        //LOGIC FOR THE Bi OVER
        
         //LOGIC FOR THE Bk
-       String inputBk = Bk.getText();    
+       var inputBk = Bk.val();    
        switch(inputBk){
-           case "" : Bk.setBackground(Color.white);
+           case "" : Bk.css("background-color","white");
            break;
-           case "Bk":  Bk.setBackground(Color.green);
+           case "Bk":  Bk.css("background-color","green");
            break;
-           default: Bk.setBackground(Color.red);
+           default: Bk.css("background-color","red");
        }
        //LOGIC FOR THE Bk OVER
        
         //LOGIC FOR THE Br
-       String inputBr = Br.getText();    
+       var inputBr = Br.val();    
        switch(inputBr){
-           case "" : Br.setBackground(Color.white);
+           case "" : Br.css("background-color","white");
            break;
-           case "Br":  Br.setBackground(Color.green);
+           case "Br":  Br.css("background-color","green");
            break;
-           default: Br.setBackground(Color.red);
+           default: Br.css("background-color","red");
        }
        //LOGIC FOR THE Br OVER
        
         //LOGIC FOR THE C
-       String inputC = C.getText();    
+       var inputC = C.val();    
        switch(inputC){
-           case "" : C.setBackground(Color.white);
+           case "" : C.css("background-color","white");
            break;
-           case "C":  C.setBackground(Color.green);
+           case "C":  C.css("background-color","green");
            break;
-           default: C.setBackground(Color.red);
+           default: C.css("background-color","red");
        }
        //LOGIC FOR THE C OVER
        
         //LOGIC FOR THE Ca
-       String inputCa = Ca.getText();    
+       var inputCa = Ca.val();    
        switch(inputCa){
-           case "" : Ca.setBackground(Color.white);
+           case "" : Ca.css("background-color","white");
            break;
-           case "Ca":  Ca.setBackground(Color.green);
+           case "Ca":  Ca.css("background-color","green");
            break;
-           default: Ca.setBackground(Color.red);
+           default: Ca.css("background-color","red");
        }
        //LOGIC FOR THE Ca OVER
        
         //LOGIC FOR THE Cd
-       String inputCd = Cd.getText();    
+       var inputCd = Cd.val();    
        switch(inputCd){
-           case "" : Cd.setBackground(Color.white);
+           case "" : Cd.css("background-color","white");
            break;
-           case "Cd":  Cd.setBackground(Color.green);
+           case "Cd":  Cd.css("background-color","green");
            break;
-           default: Cd.setBackground(Color.red);
+           default: Cd.css("background-color","red");
        }
        //LOGIC FOR THE Cd OVER
        
         //LOGIC FOR THE Ce
-       String inputCe = Ce.getText();    
+       var inputCe = Ce.val();    
        switch(inputCe){
-           case "" : Ce.setBackground(Color.white);
+           case "" : Ce.css("background-color","white");
            break;
-           case "Ce":  Ce.setBackground(Color.green);
+           case "Ce":  Ce.css("background-color","green");
            break;
-           default: Ce.setBackground(Color.red);
+           default: Ce.css("background-color","red");
        }
        //LOGIC FOR THE Ce OVER
        
         //LOGIC FOR THE Cf
-       String inputCf = Cf.getText();    
+       var inputCf = Cf.val();    
        switch(inputCf){
-           case "" : Cf.setBackground(Color.white);
+           case "" : Cf.css("background-color","white");
            break;
-           case "Cf":  Cf.setBackground(Color.green);
+           case "Cf":  Cf.css("background-color","green");
            break;
-           default: Cf.setBackground(Color.red);
+           default: Cf.css("background-color","red");
        }
        //LOGIC FOR THE Cf OVER
        
         //LOGIC FOR THE Cl
-       String inputCl = Cl.getText();    
+       var inputCl = Cl.val();    
        switch(inputCl){
-           case "" : Cl.setBackground(Color.white);
+           case "" : Cl.css("background-color","white");
            break;
-           case "Cl":  Cl.setBackground(Color.green);
+           case "Cl":  Cl.css("background-color","green");
            break;
-           default: Cl.setBackground(Color.red);
+           default: Cl.css("background-color","red");
        }
        //LOGIC FOR THE Cl OVER
        
         //LOGIC FOR THE Cm
-       String inputCm = Cm.getText();    
+       var inputCm = Cm.val();    
        switch(inputCm){
-           case "" : Cm.setBackground(Color.white);
+           case "" : Cm.css("background-color","white");
            break;
-           case "Cm":  Cm.setBackground(Color.green);
+           case "Cm":  Cm.css("background-color","green");
            break;
-           default: Cm.setBackground(Color.red);
+           default: Cm.css("background-color","red");
        }
        //LOGIC FOR THE Cm OVER
        
         //LOGIC FOR THE Co
-       String inputCo = Co.getText();    
+       var inputCo = Co.val();    
        switch(inputCo){
-           case "" : Co.setBackground(Color.white);
+           case "" : Co.css("background-color","white");
            break;
-           case "Co":  Co.setBackground(Color.green);
+           case "Co":  Co.css("background-color","green");
            break;
-           default: Co.setBackground(Color.red);
+           default: Co.css("background-color","red");
        }
        //LOGIC FOR THE Co OVER
        
         //LOGIC FOR THE Cr
-       String inputCr = Cr.getText();    
+       var inputCr = Cr.val();    
        switch(inputCr){
-           case "" : Cr.setBackground(Color.white);
+           case "" : Cr.css("background-color","white");
            break;
-           case "Cr":  Cr.setBackground(Color.green);
+           case "Cr":  Cr.css("background-color","green");
            break;
-           default: Cr.setBackground(Color.red);
+           default: Cr.css("background-color","red");
        }
        //LOGIC FOR THE Cr OVER
        
         //LOGIC FOR THE Cs
-       String inputCs = Cs.getText();    
+       var inputCs = Cs.val();    
        switch(inputCs){
-           case "" : Cs.setBackground(Color.white);
+           case "" : Cs.css("background-color","white");
            break;
-           case "Cs":  Cs.setBackground(Color.green);
+           case "Cs":  Cs.css("background-color","green");
            break;
-           default: Cs.setBackground(Color.red);
+           default: Cs.css("background-color","red");
        }
        //LOGIC FOR THE Cs OVER
        
        //LOGIC FOR THE Cu
-       String inputCu = Cu.getText();    
+       var inputCu = Cu.val();    
        switch(inputCu){
-           case "" : Cu.setBackground(Color.white);
+           case "" : Cu.css("background-color","white");
            break;
-           case "Cu":  Cu.setBackground(Color.green);
+           case "Cu":  Cu.css("background-color","green");
            break;
-           default: Cu.setBackground(Color.red);
+           default: Cu.css("background-color","red");
        }
        //LOGIC FOR THE Cu OVER
 
        //LOGIC FOR THE Db
-       String inputDb = Db.getText();    
+       var inputDb = Db.val();    
        switch(inputDb){
-           case "" : Db.setBackground(Color.white);
+           case "" : Db.css("background-color","white");
            break;
-           case "Db":  Db.setBackground(Color.green);
+           case "Db":  Db.css("background-color","green");
            break;
-           default: Db.setBackground(Color.red);
+           default: Db.css("background-color","red");
        }
        //LOGIC FOR THE Db OVER
 
        //LOGIC FOR THE Ds
-       String inputDs = Ds.getText();    
+       var inputDs = Ds.val();    
        switch(inputDs){
-           case "" : Ds.setBackground(Color.white);
+           case "" : Ds.css("background-color","white");
            break;
-           case "Ds":  Ds.setBackground(Color.green);
+           case "Ds":  Ds.css("background-color","green");
            break;
-           default: Ds.setBackground(Color.red);
+           default: Ds.css("background-color","red");
        }
        //LOGIC FOR THE Ds OVER
 
        //LOGIC FOR THE Dy
-       String inputDy = Dy.getText();    
+       var inputDy = Dy.val();    
        switch(inputDy){
-           case "" : Dy.setBackground(Color.white);
+           case "" : Dy.css("background-color","white");
            break;
-           case "Dy":  Dy.setBackground(Color.green);
+           case "Dy":  Dy.css("background-color","green");
            break;
-           default: Dy.setBackground(Color.red);
+           default: Dy.css("background-color","red");
        }
        //LOGIC FOR THE Dy OVER
 
        //LOGIC FOR THE Er
-       String inputEr = Er.getText();    
+       var inputEr = Er.val();    
        switch(inputEr){
-           case "" : Er.setBackground(Color.white);
+           case "" : Er.css("background-color","white");
            break;
-           case "Er":  Er.setBackground(Color.green);
+           case "Er":  Er.css("background-color","green");
            break;
-           default: Er.setBackground(Color.red);
+           default: Er.css("background-color","red");
        }
        //LOGIC FOR THE Er OVER
 
        //LOGIC FOR THE Es
-       String inputEs = Es.getText();    
+       var inputEs = Es.val();    
        switch(inputEs){
-           case "" : Es.setBackground(Color.white);
+           case "" : Es.css("background-color","white");
            break;
-           case "Es":  Es.setBackground(Color.green);
+           case "Es":  Es.css("background-color","green");
            break;
-           default: Es.setBackground(Color.red);
+           default: Es.css("background-color","red");
        }
        //LOGIC FOR THE Es OVER
 
        //LOGIC FOR THE Eu
-       String inputEu = Eu.getText();    
+       var inputEu = Eu.val();    
        switch(inputEu){
-           case "" : Eu.setBackground(Color.white);
+           case "" : Eu.css("background-color","white");
            break;
-           case "Eu":  Eu.setBackground(Color.green);
+           case "Eu":  Eu.css("background-color","green");
            break;
-           default: Eu.setBackground(Color.red);
+           default: Eu.css("background-color","red");
        }
        //LOGIC FOR THE Eu OVER
 
        //LOGIC FOR THE F
-       String inputF = F.getText();    
+       var inputF = F.val();    
        switch(inputF){
-           case "" : F.setBackground(Color.white);
+           case "" : F.css("background-color","white");
            break;
-           case "F":  F.setBackground(Color.green);
+           case "F":  F.css("background-color","green");
            break;
-           default: F.setBackground(Color.red);
+           default: F.css("background-color","red");
        }
        //LOGIC FOR THE F OVER
 
        //LOGIC FOR THE Fe
-       String inputFe = Fe.getText();    
+       var inputFe = Fe.val();    
        switch(inputFe){
-           case "" : Fe.setBackground(Color.white);
+           case "" : Fe.css("background-color","white");
            break;
-           case "Fe":  Fe.setBackground(Color.green);
+           case "Fe":  Fe.css("background-color","green");
            break;
-           default: Fe.setBackground(Color.red);
+           default: Fe.css("background-color","red");
        }
        //LOGIC FOR THE Fe OVER
        
        //LOGIC FOR THE Fm
-       String inputFm = Fm.getText();    
+       var inputFm = Fm.val();    
        switch(inputFm){
-           case "" : Fm.setBackground(Color.white);
+           case "" : Fm.css("background-color","white");
            break;
-           case "Fm":  Fm.setBackground(Color.green);
+           case "Fm":  Fm.css("background-color","green");
            break;
-           default: Fm.setBackground(Color.red);
+           default: Fm.css("background-color","red");
        }
        //LOGIC FOR THE Fm OVER
 
        //LOGIC FOR THE Fr
-       String inputFr = Fr.getText();    
+       var inputFr = Fr.val();    
        switch(inputFr){
-           case "" : Fr.setBackground(Color.white);
+           case "" : Fr.css("background-color","white");
            break;
-           case "Fr":  Fr.setBackground(Color.green);
+           case "Fr":  Fr.css("background-color","green");
            break;
-           default: Fr.setBackground(Color.red);
+           default: Fr.css("background-color","red");
        }
        //LOGIC FOR THE Fr OVER
 
        //LOGIC FOR THE Ga
-       String inputGa = Ga.getText();    
+       var inputGa = Ga.val();    
        switch(inputGa){
-           case "" : Ga.setBackground(Color.white);
+           case "" : Ga.css("background-color","white");
            break;
-           case "Ga":  Ga.setBackground(Color.green);
+           case "Ga":  Ga.css("background-color","green");
            break;
-           default: Ga.setBackground(Color.red);
+           default: Ga.css("background-color","red");
        }
        //LOGIC FOR THE Ga OVER
 
        //LOGIC FOR THE Gd
-       String inputGd = Gd.getText();    
+       var inputGd = Gd.val();    
        switch(inputGd){
-           case "" : Gd.setBackground(Color.white);
+           case "" : Gd.css("background-color","white");
            break;
-           case "Gd":  Gd.setBackground(Color.green);
+           case "Gd":  Gd.css("background-color","green");
            break;
-           default: Gd.setBackground(Color.red);
+           default: Gd.css("background-color","red");
        }
        //LOGIC FOR THE Gd OVER
 
        //LOGIC FOR THE Ge
-       String inputGe = Ge.getText();    
+       var inputGe = Ge.val();    
        switch(inputGe){
-           case "" : Ge.setBackground(Color.white);
+           case "" : Ge.css("background-color","white");
            break;
-           case "Ge":  Ge.setBackground(Color.green);
+           case "Ge":  Ge.css("background-color","green");
            break;
-           default: Ge.setBackground(Color.red);
+           default: Ge.css("background-color","red");
        }
        //LOGIC FOR THE Ge OVER
 
       //LOGIC FOR THE He
-       String inputHe = He.getText();    
+       var inputHe = He.val();    
        switch(inputHe){
-           case "" : He.setBackground(Color.white);
+           case "" : He.css("background-color","white");
            break;
-           case "He":  He.setBackground(Color.green);
+           case "He":  He.css("background-color","green");
            break;
-           default: He.setBackground(Color.red);
+           default: He.css("background-color","red");
        }
        //LOGIC FOR THE He OVER
 
        //LOGIC FOR THE Hf
-       String inputHf = Hf.getText();    
+       var inputHf = Hf.val();    
        switch(inputHf){
-           case "" : Hf.setBackground(Color.white);
+           case "" : Hf.css("background-color","white");
            break;
-           case "Hf":  Hf.setBackground(Color.green);
+           case "Hf":  Hf.css("background-color","green");
            break;
-           default: Hf.setBackground(Color.red);
+           default: Hf.css("background-color","red");
        }
        //LOGIC FOR THE Hf OVER
 
        //LOGIC FOR THE Hg
-       String inputHg = Hg.getText();    
+       var inputHg = Hg.val();    
        switch(inputHg){
-           case "" : Hg.setBackground(Color.white);
+           case "" : Hg.css("background-color","white");
            break;
-           case "Hg":  Hg.setBackground(Color.green);
+           case "Hg":  Hg.css("background-color","green");
            break;
-           default: Hg.setBackground(Color.red);
+           default: Hg.css("background-color","red");
        }
        //LOGIC FOR THE Hg OVER
 
        //LOGIC FOR THE Ho
-       String inputHo = Ho.getText();    
+       var inputHo = Ho.val();    
        switch(inputHo){
-           case "" : Ho.setBackground(Color.white);
+           case "" : Ho.css("background-color","white");
            break;
-           case "Ho":  Ho.setBackground(Color.green);
+           case "Ho":  Ho.css("background-color","green");
            break;
-           default: Ho.setBackground(Color.red);
+           default: Ho.css("background-color","red");
        }
        //LOGIC FOR THE Ho OVER
 
        //LOGIC FOR THE Hs
-       String inputHs = Hs.getText();    
+       var inputHs = Hs.val();    
        switch(inputHs){
-           case "" : Hs.setBackground(Color.white);
+           case "" : Hs.css("background-color","white");
            break;
-           case "Hs":  Hs.setBackground(Color.green);
+           case "Hs":  Hs.css("background-color","green");
            break;
-           default: Hs.setBackground(Color.red);
+           default: Hs.css("background-color","red");
        }
        //LOGIC FOR THE Hs OVER
 
        //LOGIC FOR THE I
-       String inputI = I.getText();    
+       var inputI = I.val();    
        switch(inputI){
-           case "" : I.setBackground(Color.white);
+           case "" : I.css("background-color","white");
            break;
-           case "I":  I.setBackground(Color.green);
+           case "I":  I.css("background-color","green");
            break;
-           default: I.setBackground(Color.red);
+           default: I.css("background-color","red");
        }
        //LOGIC FOR THE I OVER
        
        //LOGIC FOR THE In
-       String inputIn = In.getText();    
+       var inputIn = In.val();    
        switch(inputIn){
-           case "" : In.setBackground(Color.white);
+           case "" : In.css("background-color","white");
            break;
-           case "In":  In.setBackground(Color.green);
+           case "In":  In.css("background-color","green");
            break;
-           default: In.setBackground(Color.red);
+           default: In.css("background-color","red");
        }
        //LOGIC FOR THE In OVER
 
        //LOGIC FOR THE Ir
-       String inputIr = Ir.getText();    
+       var inputIr = Ir.val();    
        switch(inputIr){
-           case "" : Ir.setBackground(Color.white);
+           case "" : Ir.css("background-color","white");
            break;
-           case "Ir":  Ir.setBackground(Color.green);
+           case "Ir":  Ir.css("background-color","green");
            break;
-           default: Ir.setBackground(Color.red);
+           default: Ir.css("background-color","red");
        }
        //LOGIC FOR THE Ir OVER
 
        //LOGIC FOR THE K
-       String inputK = K.getText();    
+       var inputK = K.val();    
        switch(inputK){
-           case "" : K.setBackground(Color.white);
+           case "" : K.css("background-color","white");
            break;
-           case "K":  K.setBackground(Color.green);
+           case "K":  K.css("background-color","green");
            break;
-           default: K.setBackground(Color.red);
+           default: K.css("background-color","red");
        }
        //LOGIC FOR THE K OVER
 
        //LOGIC FOR THE Kr
-       String inputKr = Kr.getText();    
+       var inputKr = Kr.val();    
        switch(inputKr){
-           case "" : Kr.setBackground(Color.white);
+           case "" : Kr.css("background-color","white");
            break;
-           case "Kr":  Kr.setBackground(Color.green);
+           case "Kr":  Kr.css("background-color","green");
            break;
-           default: Kr.setBackground(Color.red);
+           default: Kr.css("background-color","red");
        }
        //LOGIC FOR THE Kr OVER
 
        //LOGIC FOR THE La
-       String inputLa = La.getText();    
+       var inputLa = La.val();    
        switch(inputLa){
-           case "" : La.setBackground(Color.white);
+           case "" : La.css("background-color","white");
            break;
-           case "La":  La.setBackground(Color.green);
+           case "La":  La.css("background-color","green");
            break;
-           default: La.setBackground(Color.red);
+           default: La.css("background-color","red");
        }
        //LOGIC FOR THE La OVER
        
        //LOGIC FOR THE Li
-       String inputLi = Li.getText();    
+       var inputLi = Li.val();    
        switch(inputLi){
-           case "" : Li.setBackground(Color.white);
+           case "" : Li.css("background-color","white");
            break;
-           case "Li":  Li.setBackground(Color.green);
+           case "Li":  Li.css("background-color","green");
            break;
-           default: Li.setBackground(Color.red);
+           default: Li.css("background-color","red");
        }
        //LOGIC FOR THE Li OVER
 
         //LOGIC FOR THE Lr
-       String inputLr = Lr.getText();    
+       var inputLr = Lr.val();    
        switch(inputLr){
-           case "" : Lr.setBackground(Color.white);
+           case "" : Lr.css("background-color","white");
            break;
-           case "Lr":  Lr.setBackground(Color.green);
+           case "Lr":  Lr.css("background-color","green");
            break;
-           default: Lr.setBackground(Color.red);
+           default: Lr.css("background-color","red");
        }
        //LOGIC FOR THE Lr OVER
 
        //LOGIC FOR THE Lu
-       String inputLu = Lu.getText();    
+       var inputLu = Lu.val();    
        switch(inputLu){
-           case "" : Lu.setBackground(Color.white);
+           case "" : Lu.css("background-color","white");
            break;
-           case "Lu":  Lu.setBackground(Color.green);
+           case "Lu":  Lu.css("background-color","green");
            break;
-           default: Lu.setBackground(Color.red);
+           default: Lu.css("background-color","red");
        }
        //LOGIC FOR THE Lu OVER
 
         //LOGIC FOR THE Md
-       String inputMd = Md.getText();    
+       var inputMd = Md.val();    
        switch(inputMd){
-           case "" : Md.setBackground(Color.white);
+           case "" : Md.css("background-color","white");
            break;
-           case "Md":  Md.setBackground(Color.green);
+           case "Md":  Md.css("background-color","green");
            break;
-           default: Md.setBackground(Color.red);
+           default: Md.css("background-color","red");
        }
        //LOGIC FOR THE Md OVER
 
        //LOGIC FOR THE Mg
-       String inputMg = Mg.getText();    
+       var inputMg = Mg.val();    
        switch(inputMg){
-           case "" : Mg.setBackground(Color.white);
+           case "" : Mg.css("background-color","white");
            break;
-           case "Mg":  Mg.setBackground(Color.green);
+           case "Mg":  Mg.css("background-color","green");
            break;
-           default: Mg.setBackground(Color.red);
+           default: Mg.css("background-color","red");
        }
        //LOGIC FOR THE Mg OVER
      
        //LOGIC FOR THE Mn
-       String inputMn = Mn.getText();    
+       var inputMn = Mn.val();    
        switch(inputMn){
-           case "" : Mn.setBackground(Color.white);
+           case "" : Mn.css("background-color","white");
            break;
-           case "Mn":  Mn.setBackground(Color.green);
+           case "Mn":  Mn.css("background-color","green");
            break;
-           default: Mn.setBackground(Color.red);
+           default: Mn.css("background-color","red");
        }
        //LOGIC FOR THE Mn OVER
 
         //LOGIC FOR THE Mo
-       String inputMo = Mo.getText();    
+       var inputMo = Mo.val();    
        switch(inputMo){
-           case "" : Mo.setBackground(Color.white);
+           case "" : Mo.css("background-color","white");
            break;
-           case "Mo":  Mo.setBackground(Color.green);
+           case "Mo":  Mo.css("background-color","green");
            break;
-           default: Mo.setBackground(Color.red);
+           default: Mo.css("background-color","red");
        }
        //LOGIC FOR THE Mo OVER
 
        //LOGIC FOR THE Mt
-       String inputMt = Mt.getText();    
+       var inputMt = Mt.val();    
        switch(inputMt){
-           case "" : Mt.setBackground(Color.white);
+           case "" : Mt.css("background-color","white");
            break;
-           case "Mt":  Mt.setBackground(Color.green);
+           case "Mt":  Mt.css("background-color","green");
            break;
-           default: Mt.setBackground(Color.red);
+           default: Mt.css("background-color","red");
        }
        //LOGIC FOR THE Mt OVER
 
        //LOGIC FOR THE N
-       String inputN = N.getText();    
+       var inputN = N.val();    
        switch(inputN){
-           case "" : N.setBackground(Color.white);
+           case "" : N.css("background-color","white");
            break;
-           case "N":  N.setBackground(Color.green);
+           case "N":  N.css("background-color","green");
            break;
-           default: N.setBackground(Color.red);
+           default: N.css("background-color","red");
        }
        //LOGIC FOR THE N OVER
 
        //LOGIC FOR THE Na
-       String inputNa = Na.getText();    
+       var inputNa = Na.val();    
        switch(inputNa){
-           case "" : Na.setBackground(Color.white);
+           case "" : Na.css("background-color","white");
            break;
-           case "Na":  Na.setBackground(Color.green);
+           case "Na":  Na.css("background-color","green");
            break;
-           default: Na.setBackground(Color.red);
+           default: Na.css("background-color","red");
        }
        //LOGIC FOR THE Na OVER
 
        //LOGIC FOR THE Nb
-       String inputNb = Nb.getText();    
+       var inputNb = Nb.val();    
        switch(inputNb){
-           case "" : Nb.setBackground(Color.white);
+           case "" : Nb.css("background-color","white");
            break;
-           case "Nb":  Nb.setBackground(Color.green);
+           case "Nb":  Nb.css("background-color","green");
            break;
-           default: Nb.setBackground(Color.red);
+           default: Nb.css("background-color","red");
        }
        //LOGIC FOR THE Nb OVER
 
        //LOGIC FOR THE Nd
-       String inputNd = Nd.getText();    
+       var inputNd = Nd.val();    
        switch(inputNd){
-           case "" : Nd.setBackground(Color.white);
+           case "" : Nd.css("background-color","white");
            break;
-           case "Nd":  Nd.setBackground(Color.green);
+           case "Nd":  Nd.css("background-color","green");
            break;
-           default: Nd.setBackground(Color.red);
+           default: Nd.css("background-color","red");
        }
        //LOGIC FOR THE Nd OVER
 
        //LOGIC FOR THE Ne
-       String inputNe = Ne.getText();    
+       var inputNe = Ne.val();    
        switch(inputNe){
-           case "" : Ne.setBackground(Color.white);
+           case "" : Ne.css("background-color","white");
            break;
-           case "Ne":  Ne.setBackground(Color.green);
+           case "Ne":  Ne.css("background-color","green");
            break;
-           default: Ne.setBackground(Color.red);
+           default: Ne.css("background-color","red");
        }
        //LOGIC FOR THE Ne OVER
        
        //LOGIC FOR THE Ni
-       String inputNi = Ni.getText();    
+       var inputNi = Ni.val();    
        switch(inputNi){
-           case "" : Ni.setBackground(Color.white);
+           case "" : Ni.css("background-color","white");
            break;
-           case "Ni":  Ni.setBackground(Color.green);
+           case "Ni":  Ni.css("background-color","green");
            break;
-           default: Ni.setBackground(Color.red);
+           default: Ni.css("background-color","red");
        }
        //LOGIC FOR THE Ni OVER
 
        //LOGIC FOR THE No
-       String inputNo = No.getText();    
+       var inputNo = No.val();    
        switch(inputNo){
-           case "" : No.setBackground(Color.white);
+           case "" : No.css("background-color","white");
            break;
-           case "No":  No.setBackground(Color.green);
+           case "No":  No.css("background-color","green");
            break;
-           default: No.setBackground(Color.red);
+           default: No.css("background-color","red");
        }
        //LOGIC FOR THE No OVER
 
        //LOGIC FOR THE Np
-       String inputNp = Np.getText();    
+       var inputNp = Np.val();    
        switch(inputNp){
-           case "" : Np.setBackground(Color.white);
+           case "" : Np.css("background-color","white");
            break;
-           case "Np":  Np.setBackground(Color.green);
+           case "Np":  Np.css("background-color","green");
            break;
-           default: Np.setBackground(Color.red);
+           default: Np.css("background-color","red");
        }
        //LOGIC FOR THE Np OVER
 
        //LOGIC FOR THE O
-       String inputO = O.getText();    
+       var inputO = O.val();    
        switch(inputO){
-           case "" : O.setBackground(Color.white);
+           case "" : O.css("background-color","white");
            break;
-           case "O":  O.setBackground(Color.green);
+           case "O":  O.css("background-color","green");
            break;
-           default: O.setBackground(Color.red);
+           default: O.css("background-color","red");
        }
        //LOGIC FOR THE O OVER
 
        //LOGIC FOR THE Os
-       String inputOs = Os.getText();    
+       var inputOs = Os.val();    
        switch(inputOs){
-           case "" : Os.setBackground(Color.white);
+           case "" : Os.css("background-color","white");
            break;
-           case "Os":  Os.setBackground(Color.green);
+           case "Os":  Os.css("background-color","green");
            break;
-           default: Os.setBackground(Color.red);
+           default: Os.css("background-color","red");
        }
        //LOGIC FOR THE Os OVER
 
        //LOGIC FOR THE P
-       String inputP = P.getText();    
+       var inputP = P.val();    
        switch(inputP){
-           case "" : P.setBackground(Color.white);
+           case "" : P.css("background-color","white");
            break;
-           case "P":  P.setBackground(Color.green);
+           case "P":  P.css("background-color","green");
            break;
-           default: P.setBackground(Color.red);
+           default: P.css("background-color","red");
        }
        //LOGIC FOR THE P OVER
 
        //LOGIC FOR THE Pa
-       String inputPa = Pa.getText();    
+       var inputPa = Pa.val();    
        switch(inputPa){
-           case "" : Pa.setBackground(Color.white);
+           case "" : Pa.css("background-color","white");
            break;
-           case "Pa":  Pa.setBackground(Color.green);
+           case "Pa":  Pa.css("background-color","green");
            break;
-           default: Pa.setBackground(Color.red);
+           default: Pa.css("background-color","red");
        }
        //LOGIC FOR THE Pa OVER
 
        //LOGIC FOR THE Pb
-       String inputPb = Pb.getText();    
+       var inputPb = Pb.val();    
        switch(inputPb){
-           case "" : Pb.setBackground(Color.white);
+           case "" : Pb.css("background-color","white");
            break;
-           case "Pb":  Pb.setBackground(Color.green);
+           case "Pb":  Pb.css("background-color","green");
            break;
-           default: Pb.setBackground(Color.red);
+           default: Pb.css("background-color","red");
        }
        //LOGIC FOR THE Pb OVER
 
        //LOGIC FOR THE Pd
-       String inputPd = Pd.getText();    
+       var inputPd = Pd.val();    
        switch(inputPd){
-           case "" : Pd.setBackground(Color.white);
+           case "" : Pd.css("background-color","white");
            break;
-           case "Pd":  Pd.setBackground(Color.green);
+           case "Pd":  Pd.css("background-color","green");
            break;
-           default: Pd.setBackground(Color.red);
+           default: Pd.css("background-color","red");
        }
        //LOGIC FOR THE Pd OVER
 
        //LOGIC FOR THE Pm
-       String inputPm = Pm.getText();    
+       var inputPm = Pm.val();    
        switch(inputPm){
-           case "" : Pm.setBackground(Color.white);
+           case "" : Pm.css("background-color","white");
            break;
-           case "Pm":  Pm.setBackground(Color.green);
+           case "Pm":  Pm.css("background-color","green");
            break;
-           default: Pm.setBackground(Color.red);
+           default: Pm.css("background-color","red");
        }
        //LOGIC FOR THE Pm OVER
 
        //LOGIC FOR THE Po
-       String inputPo = Po.getText();    
+       var inputPo = Po.val();    
        switch(inputPo){
-           case "" : Po.setBackground(Color.white);
+           case "" : Po.css("background-color","white");
            break;
-           case "Po":  Po.setBackground(Color.green);
+           case "Po":  Po.css("background-color","green");
            break;
-           default: Po.setBackground(Color.red);
+           default: Po.css("background-color","red");
        }
        //LOGIC FOR THE Po OVER
 
        //LOGIC FOR THE Pr
-       String inputPr = Pr.getText();    
+       var inputPr = Pr.val();    
        switch(inputPr){
-           case "" : Pr.setBackground(Color.white);
+           case "" : Pr.css("background-color","white");
            break;
-           case "Pr":  Pr.setBackground(Color.green);
+           case "Pr":  Pr.css("background-color","green");
            break;
-           default: Pr.setBackground(Color.red);
+           default: Pr.css("background-color","red");
        }
        //LOGIC FOR THE Pr OVER
 
        //LOGIC FOR THE Pt
-       String inputPt = Pt.getText();    
+       var inputPt = Pt.val();    
        switch(inputPt){
-           case "" : Pt.setBackground(Color.white);
+           case "" : Pt.css("background-color","white");
            break;
-           case "Pt":  Pt.setBackground(Color.green);
+           case "Pt":  Pt.css("background-color","green");
            break;
-           default: Pt.setBackground(Color.red);
+           default: Pt.css("background-color","red");
        }
        //LOGIC FOR THE Pt OVER
 
        //LOGIC FOR THE Pu
-       String inputPu = Pu.getText();    
+       var inputPu = Pu.val();    
        switch(inputPu){
-           case "" : Pu.setBackground(Color.white);
+           case "" : Pu.css("background-color","white");
            break;
-           case "Pu":  Pu.setBackground(Color.green);
+           case "Pu":  Pu.css("background-color","green");
            break;
-           default: Pu.setBackground(Color.red);
+           default: Pu.css("background-color","red");
        }
        //LOGIC FOR THE Pu OVER
 
        //LOGIC FOR THE Ra
-       String inputRa = Ra.getText();    
+       var inputRa = Ra.val();    
        switch(inputRa){
-           case "" : Ra.setBackground(Color.white);
+           case "" : Ra.css("background-color","white");
            break;
-           case "Ra":  Ra.setBackground(Color.green);
+           case "Ra":  Ra.css("background-color","green");
            break;
-           default: Ra.setBackground(Color.red);
+           default: Ra.css("background-color","red");
        }
        //LOGIC FOR THE Ra OVER
 
        //LOGIC FOR THE Rb
-       String inputRb = Rb.getText();    
+       var inputRb = Rb.val();    
        switch(inputRb){
-           case "" : Rb.setBackground(Color.white);
+           case "" : Rb.css("background-color","white");
            break;
-           case "Rb":  Rb.setBackground(Color.green);
+           case "Rb":  Rb.css("background-color","green");
            break;
-           default: Rb.setBackground(Color.red);
+           default: Rb.css("background-color","red");
        }
        //LOGIC FOR THE Rb OVER
 
        //LOGIC FOR THE Re
-       String inputRe = Re.getText();    
+       var inputRe = Re.val();    
        switch(inputRe){
-           case "" : Re.setBackground(Color.white);
+           case "" : Re.css("background-color","white");
            break;
-           case "Re":  Re.setBackground(Color.green);
+           case "Re":  Re.css("background-color","green");
            break;
-           default: Re.setBackground(Color.red);
+           default: Re.css("background-color","red");
        }
        //LOGIC FOR THE Re OVER
 
        //LOGIC FOR THE Rf
-       String inputRf = Rf.getText();    
+       var inputRf = Rf.val();    
        switch(inputRf){
-           case "" : Rf.setBackground(Color.white);
+           case "" : Rf.css("background-color","white");
            break;
-           case "Rf":  Rf.setBackground(Color.green);
+           case "Rf":  Rf.css("background-color","green");
            break;
-           default: Rf.setBackground(Color.red);
+           default: Rf.css("background-color","red");
        }
        //LOGIC FOR THE Rf OVER
 
        //LOGIC FOR THE Rg
-       String inputRg = Rg.getText();    
+       var inputRg = Rg.val();    
        switch(inputRg){
-           case "" : Rg.setBackground(Color.white);
+           case "" : Rg.css("background-color","white");
            break;
-           case "Rg":  Rg.setBackground(Color.green);
+           case "Rg":  Rg.css("background-color","green");
            break;
-           default: Rg.setBackground(Color.red);
+           default: Rg.css("background-color","red");
        }
        //LOGIC FOR THE Rg OVER
 
        //LOGIC FOR THE Rh
-       String inputRh = Rh.getText();    
+       var inputRh = Rh.val();    
        switch(inputRh){
-           case "" : Rh.setBackground(Color.white);
+           case "" : Rh.css("background-color","white");
            break;
-           case "Rh":  Rh.setBackground(Color.green);
+           case "Rh":  Rh.css("background-color","green");
            break;
-           default: Rh.setBackground(Color.red);
+           default: Rh.css("background-color","red");
        }
        //LOGIC FOR THE Rh OVER
 
        //LOGIC FOR THE Rn
-       String inputRn = Rn.getText();    
+       var inputRn = Rn.val();    
        switch(inputRn){
-           case "" : Rn.setBackground(Color.white);
+           case "" : Rn.css("background-color","white");
            break;
-           case "Rn":  Rn.setBackground(Color.green);
+           case "Rn":  Rn.css("background-color","green");
            break;
-           default: Rn.setBackground(Color.red);
+           default: Rn.css("background-color","red");
        }
        //LOGIC FOR THE Rn OVER
 
        //LOGIC FOR THE Ru
-       String inputRu = Ru.getText();    
+       var inputRu = Ru.val();    
        switch(inputRu){
-           case "" : Ru.setBackground(Color.white);
+           case "" : Ru.css("background-color","white");
            break;
-           case "Ru":  Ru.setBackground(Color.green);
+           case "Ru":  Ru.css("background-color","green");
            break;
-           default: Ru.setBackground(Color.red);
+           default: Ru.css("background-color","red");
        }
        //LOGIC FOR THE Ru OVER
 
        //LOGIC FOR THE S
-       String inputS = S.getText();    
+       var inputS = S.val();    
        switch(inputS){
-           case "" : S.setBackground(Color.white);
+           case "" : S.css("background-color","white");
            break;
-           case "S":  S.setBackground(Color.green);
+           case "S":  S.css("background-color","green");
            break;
-           default: S.setBackground(Color.red);
+           default: S.css("background-color","red");
        }
        //LOGIC FOR THE S OVER
 
        //LOGIC FOR THE Sb
-       String inputSb = Sb.getText();    
+       var inputSb = Sb.val();    
        switch(inputSb){
-           case "" : Sb.setBackground(Color.white);
+           case "" : Sb.css("background-color","white");
            break;
-           case "Sb":  Sb.setBackground(Color.green);
+           case "Sb":  Sb.css("background-color","green");
            break;
-           default: Sb.setBackground(Color.red);
+           default: Sb.css("background-color","red");
        }
        //LOGIC FOR THE Sb OVER
 
        //LOGIC FOR THE Sc
-       String inputSc = Sc.getText();    
+       var inputSc = Sc.val();    
        switch(inputSc){
-           case "" : Sc.setBackground(Color.white);
+           case "" : Sc.css("background-color","white");
            break;
-           case "Sc":  Sc.setBackground(Color.green);
+           case "Sc":  Sc.css("background-color","green");
            break;
-           default: Sc.setBackground(Color.red);
+           default: Sc.css("background-color","red");
        }
        //LOGIC FOR THE Sc OVER
 
        //LOGIC FOR THE Se
-       String inputSe = Se.getText();    
+       var inputSe = Se.val();    
        switch(inputSe){
-           case "" : Se.setBackground(Color.white);
+           case "" : Se.css("background-color","white");
            break;
-           case "Se":  Se.setBackground(Color.green);
+           case "Se":  Se.css("background-color","green");
            break;
-           default: Se.setBackground(Color.red);
+           default: Se.css("background-color","red");
        }
        //LOGIC FOR THE Se OVER
 
        //LOGIC FOR THE Sg
-       String inputSg = Sg.getText();    
+       var inputSg = Sg.val();    
        switch(inputSg){
-           case "" : Sg.setBackground(Color.white);
+           case "" : Sg.css("background-color","white");
            break;
-           case "Sg":  Sg.setBackground(Color.green);
+           case "Sg":  Sg.css("background-color","green");
            break;
-           default: Sg.setBackground(Color.red);
+           default: Sg.css("background-color","red");
        }
        //LOGIC FOR THE Sg OVER
 
        //LOGIC FOR THE Si
-       String inputSi = Si.getText();    
+       var inputSi = Si.val();    
        switch(inputSi){
-           case "" : Si.setBackground(Color.white);
+           case "" : Si.css("background-color","white");
            break;
-           case "Si":  Si.setBackground(Color.green);
+           case "Si":  Si.css("background-color","green");
            break;
-           default: Si.setBackground(Color.red);
+           default: Si.css("background-color","red");
        }
        //LOGIC FOR THE Si OVER
 
        //LOGIC FOR THE Sm
-       String inputSm = Sm.getText();    
+       var inputSm = Sm.val();    
        switch(inputSm){
-           case "" : Sm.setBackground(Color.white);
+           case "" : Sm.css("background-color","white");
            break;
-           case "Sm":  Sm.setBackground(Color.green);
+           case "Sm":  Sm.css("background-color","green");
            break;
-           default: Sm.setBackground(Color.red);
+           default: Sm.css("background-color","red");
        }
        //LOGIC FOR THE Sm OVER
 
        //LOGIC FOR THE Sn
-       String inputSn = Sn.getText();    
+       var inputSn = Sn.val();    
        switch(inputSn){
-           case "" : Sn.setBackground(Color.white);
+           case "" : Sn.css("background-color","white");
            break;
-           case "Sn":  Sn.setBackground(Color.green);
+           case "Sn":  Sn.css("background-color","green");
            break;
-           default: Sn.setBackground(Color.red);
+           default: Sn.css("background-color","red");
        }
        //LOGIC FOR THE Sn OVER
 
        //LOGIC FOR THE Sr
-       String inputSr = Sr.getText();    
+       var inputSr = Sr.val();    
        switch(inputSr){
-           case "" : Sr.setBackground(Color.white);
+           case "" : Sr.css("background-color","white");
            break;
-           case "Sr":  Sr.setBackground(Color.green);
+           case "Sr":  Sr.css("background-color","green");
            break;
-           default: Sr.setBackground(Color.red);
+           default: Sr.css("background-color","red");
        }
        //LOGIC FOR THE Sr OVER
 
        //LOGIC FOR THE Ta
-       String inputTa = Ta.getText();    
+       var inputTa = Ta.val();    
        switch(inputTa){
-           case "" : Ta.setBackground(Color.white);
+           case "" : Ta.css("background-color","white");
            break;
-           case "Ta":  Ta.setBackground(Color.green);
+           case "Ta":  Ta.css("background-color","green");
            break;
-           default: Ta.setBackground(Color.red);
+           default: Ta.css("background-color","red");
        }
        //LOGIC FOR THE Ta OVER
 
        //LOGIC FOR THE Tb
-       String inputTb = Tb.getText();    
+       var inputTb = Tb.val();    
        switch(inputTb){
-           case "" : Tb.setBackground(Color.white);
+           case "" : Tb.css("background-color","white");
            break;
-           case "Tb":  Tb.setBackground(Color.green);
+           case "Tb":  Tb.css("background-color","green");
            break;
-           default: Tb.setBackground(Color.red);
+           default: Tb.css("background-color","red");
        }
        //LOGIC FOR THE Tb OVER
 
        //LOGIC FOR THE Tc
-       String inputTc = Tc.getText();    
+       var inputTc = Tc.val();    
        switch(inputTc){
-           case "" : Tc.setBackground(Color.white);
+           case "" : Tc.css("background-color","white");
            break;
-           case "Tc":  Tc.setBackground(Color.green);
+           case "Tc":  Tc.css("background-color","green");
            break;
-           default: Tc.setBackground(Color.red);
+           default: Tc.css("background-color","red");
        }
        //LOGIC FOR THE Tc OVER
 
        //LOGIC FOR THE Te
-       String inputTe = Te.getText();    
+       var inputTe = Te.val();    
        switch(inputTe){
-           case "" : Te.setBackground(Color.white);
+           case "" : Te.css("background-color","white");
            break;
-           case "Te":  Te.setBackground(Color.green);
+           case "Te":  Te.css("background-color","green");
            break;
-           default: Te.setBackground(Color.red);
+           default: Te.css("background-color","red");
        }
        //LOGIC FOR THE Te OVER
 
        //LOGIC FOR THE Th
-       String inputTh = Th.getText();    
+       var inputTh = Th.val();    
        switch(inputTh){
-           case "" : Th.setBackground(Color.white);
+           case "" : Th.css("background-color","white");
            break;
-           case "Th":  Th.setBackground(Color.green);
+           case "Th":  Th.css("background-color","green");
            break;
-           default: Th.setBackground(Color.red);
+           default: Th.css("background-color","red");
        }
        //LOGIC FOR THE Th OVER
 
        //LOGIC FOR THE Ti
-       String inputTi = Ti.getText();    
+       var inputTi = Ti.val();    
        switch(inputTi){
-           case "" : Ti.setBackground(Color.white);
+           case "" : Ti.css("background-color","white");
            break;
-           case "Ti":  Ti.setBackground(Color.green);
+           case "Ti":  Ti.css("background-color","green");
            break;
-           default: Ti.setBackground(Color.red);
+           default: Ti.css("background-color","red");
        }
        //LOGIC FOR THE Ti OVER
 
        //LOGIC FOR THE Tl
-       String inputTl = Tl.getText();    
+       var inputTl = Tl.val();    
        switch(inputTl){
-           case "" : Tl.setBackground(Color.white);
+           case "" : Tl.css("background-color","white");
            break;
-           case "Tl":  Tl.setBackground(Color.green);
+           case "Tl":  Tl.css("background-color","green");
            break;
-           default: Tl.setBackground(Color.red);
+           default: Tl.css("background-color","red");
        }
        //LOGIC FOR THE Tl OVER
 
        //LOGIC FOR THE Tm
-       String inputTm = Tm.getText();    
+       var inputTm = Tm.val();    
        switch(inputTm){
-           case "" : Tm.setBackground(Color.white);
+           case "" : Tm.css("background-color","white");
            break;
-           case "Tm":  Tm.setBackground(Color.green);
+           case "Tm":  Tm.css("background-color","green");
            break;
-           default: Tm.setBackground(Color.red);
+           default: Tm.css("background-color","red");
        }
        //LOGIC FOR THE Tm OVER
 
        //LOGIC FOR THE U
-       String inputU = U.getText();    
+       var inputU = U.val();    
        switch(inputU){
-           case "" : U.setBackground(Color.white);
+           case "" : U.css("background-color","white");
            break;
-           case "U":  U.setBackground(Color.green);
+           case "U":  U.css("background-color","green");
            break;
-           default: U.setBackground(Color.red);
+           default: U.css("background-color","red");
        }
        //LOGIC FOR THE U OVER
 
        //LOGIC FOR THE Uub
-       String inputUub = Uub.getText();    
+       var inputUub = Uub.val();    
        switch(inputUub){
-           case "" : Uub.setBackground(Color.white);
+           case "" : Uub.css("background-color","white");
            break;
-           case "Uub":  Uub.setBackground(Color.green);
+           case "Uub":  Uub.css("background-color","green");
            break;
-           default: Uub.setBackground(Color.red);
+           default: Uub.css("background-color","red");
        }
        //LOGIC FOR THE Uub OVER
 
        //LOGIC FOR THE Uuh
-       String inputUuh = Uuh.getText();    
+       var inputUuh = Uuh.val();    
        switch(inputUuh){
-           case "" : Uuh.setBackground(Color.white);
+           case "" : Uuh.css("background-color","white");
            break;
-           case "Uuh":  Uuh.setBackground(Color.green);
+           case "Uuh":  Uuh.css("background-color","green");
            break;
-           default: Uuh.setBackground(Color.red);
+           default: Uuh.css("background-color","red");
        }
        //LOGIC FOR THE Uuh OVER
 
        //LOGIC FOR THE Uuo
-       String inputUuo = Uuo.getText();    
+       var inputUuo = Uuo.val();    
        switch(inputUuo){
-           case "" : Uuo.setBackground(Color.white);
+           case "" : Uuo.css("background-color","white");
            break;
-           case "Uuo":  Uuo.setBackground(Color.green);
+           case "Uuo":  Uuo.css("background-color","green");
            break;
-           default: Uuo.setBackground(Color.red);
+           default: Uuo.css("background-color","red");
        }
        //LOGIC FOR THE Uuo OVER
 
        //LOGIC FOR THE Uup
-       String inputUup = Uup.getText();    
+       var inputUup = Uup.val();    
        switch(inputUup){
-           case "" : Uup.setBackground(Color.white);
+           case "" : Uup.css("background-color","white");
            break;
-           case "Uup":  Uup.setBackground(Color.green);
+           case "Uup":  Uup.css("background-color","green");
            break;
-           default: Uup.setBackground(Color.red);
+           default: Uup.css("background-color","red");
        }
        //LOGIC FOR THE Uup OVER
 
        //LOGIC FOR THE Uuq
-       String inputUuq = Uuq.getText();    
+       var inputUuq = Uuq.val();    
        switch(inputUuq){
-           case "" : Uuq.setBackground(Color.white);
+           case "" : Uuq.css("background-color","white");
            break;
-           case "Uuq":  Uuq.setBackground(Color.green);
+           case "Uuq":  Uuq.css("background-color","green");
            break;
-           default: Uuq.setBackground(Color.red);
+           default: Uuq.css("background-color","red");
        }
        //LOGIC FOR THE Uuq OVER
 
        //LOGIC FOR THE Uus
-       String inputUus = Uus.getText();    
+       var inputUus = Uus.val();    
        switch(inputUus){
-           case "" : Uus.setBackground(Color.white);
+           case "" : Uus.css("background-color","white");
            break;
-           case "Uus":  Uus.setBackground(Color.green);
+           case "Uus":  Uus.css("background-color","green");
            break;
-           default: Uus.setBackground(Color.red);
+           default: Uus.css("background-color","red");
        }
        //LOGIC FOR THE Uus OVER
 
        //LOGIC FOR THE Uut
-       String inputUut = Uut.getText();    
+       var inputUut = Uut.val();    
        switch(inputUut){
-           case "" : Uut.setBackground(Color.white);
+           case "" : Uut.css("background-color","white");
            break;
-           case "Uut":  Uut.setBackground(Color.green);
+           case "Uut":  Uut.css("background-color","green");
            break;
-           default: Uut.setBackground(Color.red);
+           default: Uut.css("background-color","red");
        }
        //LOGIC FOR THE Uut OVER
 
        //LOGIC FOR THE V
-       String inputV = V.getText();    
+       var inputV = V.val();    
        switch(inputV){
-           case "" : V.setBackground(Color.white);
+           case "" : V.css("background-color","white");
            break;
-           case "V":  V.setBackground(Color.green);
+           case "V":  V.css("background-color","green");
            break;
-           default: V.setBackground(Color.red);
+           default: V.css("background-color","red");
        }
        //LOGIC FOR THE V OVER
 
        //LOGIC FOR THE W
-       String inputW = W.getText();    
+       var inputW = W.val();    
        switch(inputW){
-           case "" : W.setBackground(Color.white);
+           case "" : W.css("background-color","white");
            break;
-           case "W":  W.setBackground(Color.green);
+           case "W":  W.css("background-color","green");
            break;
-           default: W.setBackground(Color.red);
+           default: W.css("background-color","red");
        }
        //LOGIC FOR THE W OVER
 
        //LOGIC FOR THE Xe
-       String inputXe = Xe.getText();    
+       var inputXe = Xe.val();    
        switch(inputXe){
-           case "" : Xe.setBackground(Color.white);
+           case "" : Xe.css("background-color","white");
            break;
-           case "Xe":  Xe.setBackground(Color.green);
+           case "Xe":  Xe.css("background-color","green");
            break;
-           default: Xe.setBackground(Color.red);
+           default: Xe.css("background-color","red");
        }
        //LOGIC FOR THE Xe OVER
 
        //LOGIC FOR THE Y
-       String inputY = Y.getText();    
+       var inputY = Y.val();    
        switch(inputY){
-           case "" : Y.setBackground(Color.white);
+           case "" : Y.css("background-color","white");
            break;
-           case "Y":  Y.setBackground(Color.green);
+           case "Y":  Y.css("background-color","green");
            break;
-           default: Y.setBackground(Color.red);
+           default: Y.css("background-color","red");
        }
        //LOGIC FOR THE Y OVER
 
        //LOGIC FOR THE Yb
-       String inputYb = Yb.getText();    
+       var inputYb = Yb.val();    
        switch(inputYb){
-           case "" : Yb.setBackground(Color.white);
+           case "" : Yb.css("background-color","white");
            break;
-           case "Yb":  Yb.setBackground(Color.green);
+           case "Yb":  Yb.css("background-color","green");
            break;
-           default: Yb.setBackground(Color.red);
+           default: Yb.css("background-color","red");
        }
        //LOGIC FOR THE Yb OVER
 
        //LOGIC FOR THE Zn
-       String inputZn = Zn.getText();    
+       var inputZn = Zn.val();    
        switch(inputZn){
-           case "" : Zn.setBackground(Color.white);
+           case "" : Zn.css("background-color","white");
            break;
-           case "Zn":  Zn.setBackground(Color.green);
+           case "Zn":  Zn.css("background-color","green");
            break;
-           default: Zn.setBackground(Color.red);
+           default: Zn.css("background-color","red");
        }
        //LOGIC FOR THE Zn OVER
 
        //LOGIC FOR THE Zr
-       String inputZr = Zr.getText();    
+       var inputZr = Zr.val();    
        switch(inputZr){
-           case "" : Zr.setBackground(Color.white);
+           case "" : Zr.css("background-color","white");
            break;
-           case "Zr":  Zr.setBackground(Color.green);
+           case "Zr":  Zr.css("background-color","green");
            break;
-           default: Zr.setBackground(Color.red);
+           default: Zr.css("background-color","red");
        }
        //LOGIC FOR THE Zr OVER
        
