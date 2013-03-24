@@ -2,6 +2,7 @@
 
 	$('.everythingButHomepage').hide();
 
+
 // Set up the homepage div and the menu div transition function
 
 	$('#homepageButton').click(function(){
@@ -50,6 +51,8 @@
 /*===================QUIZ MODE LOGIC======================*/
 
 	function setUpQuiz(){
+
+		$('#answerCheckerModal').modal('show');
 
 		/*...SET RANDOM NUMBER SEQUENCE HERE...*/
 
