@@ -134,6 +134,19 @@ Md.attr("title","named after dimitri mendeleev");
 No.attr("title"," first correctly identified in 1966 by scientists at the Flerov Laboratory of Nuclear Reactions in Dubna, Soviet Union");
 Lr.attr("title","first synthesized by the nuclear-physics team led by Albert Ghiorso on February 14, 1961");
 
+
+
+
+/* INITIALIZE THE TOOLTIPS */
+
+$(".element").tooltip({
+  'selector': '',
+  'placement': 'top'
+});
+
+
+
+/*
 $('.challengeModeInputs').change(function() {
  
       
@@ -1437,3 +1450,4 @@ $('.challengeModeInputs').change(function() {
        
  
 });
+*/
