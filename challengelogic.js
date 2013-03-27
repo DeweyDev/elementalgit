@@ -140,12 +140,16 @@ $(".element").popover({
 
 
 
-/*
-$('.challengeModeInputs').change(function() {
+
+$("input").change(function() {
  
       
+      /* TWANNY HERE"S YOUR JOB! LOOK AT WHAT I DID FOR THE ELEMENTS BELOW:*/
+
+
+
        //LOGIC FOR THE H
-       var inputH = $("#H").val();    
+       var inputH = $("#H input").val();    
        switch(inputH){
            case "" : $("#H").css("background-color","white");
            break;
@@ -156,7 +160,7 @@ $('.challengeModeInputs').change(function() {
        //LOGIC FOR THE H OVER
        
        //LOGIC FOR THE Ac
-       var inputAc = $("#Ac").val();    
+       var inputAc = $("#Ac input").val();    
        switch(inputAc){
            case "" : $("#Ac").css("background-color","white");
            break;
@@ -167,15 +171,26 @@ $('.challengeModeInputs').change(function() {
        //LOGIC FOR THE Ac OVER
        
        //LOGIC FOR THE Ag
-       var inputAg = $("#Ag").val();    
+       var inputAg = $("#Ag input").val();    
        switch(inputAg){
-           case "" : Ag.css("background-color","white");
+           case "" : $("#Ag").css("background-color","white");
            break;
-           case "Ag":  Ag.css("background-color","green");
+           case "Ag":  $("#Ag").css("background-color","green");
            break;
-           default: Ag.css("background-color","red");
+           default: $("#Ag").css("background-color","red");
        }
        //LOGIC FOR THE Ag OVER
+       
+
+
+
+      /* DO THE SAME THING I DID ABOVE FOR THE CODE BELOW */
+       
+
+
+
+
+
        
        //LOGIC FOR THE Al
        var inputAl = Al.val();    
@@ -1444,4 +1459,3 @@ $('.challengeModeInputs').change(function() {
        
  
 });
-*/
