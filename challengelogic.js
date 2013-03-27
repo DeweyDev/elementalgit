@@ -56,7 +56,7 @@ $("#Pd").attr("title","was named after the asteroid Pallas");
 $("#Ag").attr("title","has the highest electrical and thermal conductivity of any element as well as being very commonly used in jewelry");
 $("#Cd").attr("title","a soft, bluish-white metal");
 $("#In").attr("title","a very rare, malleable element");
-$("#Sn")attr("title","one of hte most common metals");
+$("#Sn").attr("title","one of hte most common metals");
 $("#Sb").attr("title","a lustrous, gray metalloid");
 $("#Te").attr("title","extremely rare on earth");
 $("#I").attr("title","primarily used in nutrition");
