@@ -145,29 +145,29 @@ $('.challengeModeInputs').change(function() {
  
       
        //LOGIC FOR THE H
-       var inputH = H.val();    
+       var inputH = $("#H").val();    
        switch(inputH){
-           case "" : H.css("background-color","white");
+           case "" : $("#H").css("background-color","white");
            break;
-           case "H":  H.css("background-color","green");
+           case "H":  $("#H").css("background-color","green");
            break;
-           default: H.css("background-color","red");
+           default: $("#H").css("background-color","red");
        }
        //LOGIC FOR THE H OVER
        
        //LOGIC FOR THE Ac
-       var inputAc = Ac.val();    
+       var inputAc = $("#Ac").val();    
        switch(inputAc){
-           case "" : Ac.css("background-color","white");
+           case "" : $("#Ac").css("background-color","white");
            break;
-           case "Ac":  Ac.css("background-color","green");
+           case "Ac":  $("#Ac").css("background-color","green");
            break;
-           default: Ac.css("background-color","red");
+           default: $("#Ac").css("background-color","red");
        }
        //LOGIC FOR THE Ac OVER
        
        //LOGIC FOR THE Ag
-       var inputAg = Ag.val();    
+       var inputAg = $("#Ag").val();    
        switch(inputAg){
            case "" : Ag.css("background-color","white");
            break;
