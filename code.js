@@ -2,8 +2,8 @@
 
 	$('.everythingButHomepage').hide();
 	$('.quizQuestions').hide();
+	
 	var arrayLoopingVar = 0;
-
 	var correctScore = 0;
 	var wrongScore = 0;
 
@@ -30,10 +30,15 @@
 
 /*===================MENU LOGIC======================*/
 	
-	$('#quizModeButton').click(function(){
+	$('#quizModeButton').unbind('click').click(function(){
 
 		$('#menuDiv').hide('slow');
 		$('#quizModeDiv').show('slow');
+
+		// Hide the open questions
+
+		$(".quizQuestions").hide();
+
 		setUpQuiz();
 
 	});
@@ -61,7 +66,7 @@
 
 		$('#periodicTableButton').unbind('click').click(function(){
 			
-			$('#periodicTableModal').modal('show');
+			$('#periodicTableModal').modal('show').css({'width': '1000px','margin-left': function () {return -($(this).width() / 2);}});
 
 		});
 
