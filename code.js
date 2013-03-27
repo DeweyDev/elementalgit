@@ -122,7 +122,10 @@
 
 	}
 
+	$('#periodicTableButton').click(function(){
+		$('#periodicTableModal').modal('show');
 
+	});
 
 
 /*===================CHALLENGE MODE LOGIC======================*/
