@@ -131,9 +131,11 @@ $("#Lr").attr("title","first synthesized by the nuclear-physics team led by Albe
 
 /* INITIALIZE THE TOOLTIPS */
 
-$(".element").tooltip({
-  'selector': '',
-  'placement': 'top'
+$(".element").popover({
+  //'selector': '',
+  'placement': 'top',
+  'trigger': "hover",
+  
 });
 
 
