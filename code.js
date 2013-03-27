@@ -56,6 +56,14 @@
 
 	function setUpQuiz(){
 
+		/* Set up periodic table reference */
+
+
+		$('#periodicTableButton').unbind('click').click(function(){
+			
+			$('#periodicTableModal').modal('show');
+
+		});
 
 		/*...SET RANDOM NUMBER SEQUENCE HERE AND LOG IT...*/
 		
@@ -122,10 +130,4 @@
 
 	}
 
-	$('#periodicTableButton').click(function(){
-		$('#periodicTableModal').modal('show');
 
-	});
-
-
-/*===================CHALLENGE MODE LOGIC======================*/
