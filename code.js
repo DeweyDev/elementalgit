@@ -2,6 +2,7 @@
 
 	$('.everythingButHomepage').hide();
 	$('.quizQuestions').hide();
+	$('.explanationDiv').hide();
 	
 	var arrayLoopingVar = 0;
 	var correctScore = 0;
@@ -101,8 +102,9 @@
 					$('#answerCheckerModalTitle').text("Correct!");
 
 					// Make the popup show
+
+					$('#answerCheckerModalBody').html($("#" + numRanSequenceBank[arrayLoopingVar] + " .explanationDiv").html());
 					$('#answerCheckerModal').modal('show');
-					$('#answerCheckerModalBody').html('');
 
 					// Increment score counter
 

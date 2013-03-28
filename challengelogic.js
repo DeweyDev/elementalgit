@@ -188,7 +188,7 @@ $("input").change(function() {
 
 
 
-
+/*
 
        
        //LOGIC FOR THE Al
@@ -1455,6 +1455,6 @@ $("input").change(function() {
            default: Zr.css("background-color","red");
        }
        //LOGIC FOR THE Zr OVER
-       
+       */
  
 });
