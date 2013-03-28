@@ -20,7 +20,7 @@ $("#Ne").attr("title","fourth most abundant element in the universe");
 $("#Na").attr("title","used for common salt");
 $("#Mg").attr("title","very abundant in nature, mainly in rocky minerals");
 $("#Al").attr("title","used for cans and foils");
-$("#Si").attr("title","used as a lubricante");
+$("#Si").attr("title","used as a lubricant");
 $("#P").attr("title","main use in pesticidees and fertilizers");
 $("#S").attr("title","main component of gunpowder");
 $("#Cl").attr("title","a pool consists of this in its water");
@@ -135,7 +135,6 @@ $(".element").popover({
   //'selector': '',
   'placement': 'top',
   'trigger': "hover",
-  
 });
 
 
