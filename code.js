@@ -102,6 +102,7 @@
 
 					// Make the popup show
 					$('#answerCheckerModal').modal('show');
+					$('#answerCheckerModalBody').html('');
 
 					// Increment score counter
 
