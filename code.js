@@ -103,7 +103,8 @@
 
 					// Make the popup show
 
-					$('#answerCheckerModalBody').html($("#" + numRanSequenceBank[arrayLoopingVar] + " .explanationDiv").html());
+					$('#answerCheckerModalBody').empty();
+					$('#answerCheckerModalBody').append($("#" + "explanation" + numRanSequenceBank[arrayLoopingVar]).html());
 					$('#answerCheckerModal').modal('show');
 
 					// Increment score counter
@@ -121,6 +122,9 @@
 					$('#answerCheckerModalTitle').text("Wrong!");
 
 					// Make the popup show
+					
+					$('#answerCheckerModalBody').empty();
+					$('#answerCheckerModalBody').append($("#" + "explanation" + numRanSequenceBank[arrayLoopingVar]).html());
 					$('#answerCheckerModal').modal('show');
 
 					// Increment score counter
