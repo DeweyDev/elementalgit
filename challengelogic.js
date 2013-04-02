@@ -192,123 +192,123 @@ $("input").change(function() {
 
        
        //LOGIC FOR THE Al
-       var inputAl = Al.val();    
+       var inputAl = $("#Al input").val();    
        switch(inputAl){
-           case "" : Al.css("background-color","white");
+           case "" : $("#Al").css("background-color","white");
            break;
-           case "Al":  Al.css("background-color","green");
+           case "Al":  $("#Al").css("background-color","green");
            break;
-           default: Al.css("background-color","red");
+           default: $("#Al").css("background-color","red");
        }
        //LOGIC FOR THE Al OVER
        
        //LOGIC FOR THE Am
-       var inputAm = Am.val();    
+       var inputAm = $("#Am input").val();    
        switch(inputAm){
-           case "" : Am.css("background-color","white");
+           case "" : $("#Am").css("background-color","white");
            break;
-           case "Am":  Am.css("background-color","green");
+           case "Am":  $("#Am").css("background-color","green");
            break;
-           default: Am.css("background-color","red");
+           default: $("#Am").css("background-color","red");
        }
        //LOGIC FOR THE Am OVER
 
        //LOGIC FOR THE Ar
-       var inputAr = Ar.val();    
+       var inputAr = $("#Ar input").val();    
        switch(inputAr){
-           case "" : Ar.css("background-color","white");
+           case "" : $("#Ar").css("background-color","white");
            break;
-           case "Ar":  Ar.css("background-color","green");
+           case "Ar":  $("#Ar").css("background-color","green");
            break;
-           default: Ar.css("background-color","red");
+           default: $("#Ar").css("background-color","red");
        }
        //LOGIC FOR THE Ar OVER
 
        //LOGIC FOR THE As
-       var inputAs = As.val();    
+       var inputAs = $("#As input").val();    
        switch(inputAs){
-           case "" : As.css("background-color","white");
+           case "" : $("#As").css("background-color","white");
            break;
-           case "As":  As.css("background-color","green");
+           case "As":  $("#As").css("background-color","green");
            break;
-           default: As.css("background-color","red");
+           default: $("#As").css("background-color","red");
        }
        //LOGIC FOR THE As OVER
        
        //LOGIC FOR THE At
-       var inputAt = At.val();    
+       var inputAt = $("#At input").val();    
        switch(inputAt){
-           case "" : At.css("background-color","white");
+           case "" : $("#At").css("background-color","white");
            break;
-           case "At":  At.css("background-color","green");
+           case "At":  $("#At").css("background-color","green");
            break;
-           default: At.css("background-color","red");
+           default: $("#At").css("background-color","red");
        }
        //LOGIC FOR THE At OVER
        
        //LOGIC FOR THE Au
-       var inputAu = Au.val();    
+       var inputAu = $("#Au input").val();    
        switch(inputAu){
-           case "" : Au.css("background-color","white");
+           case "" : $("#Au").css("background-color","white");
            break;
-           case "Au":  Au.css("background-color","green");
+           case "Au":  $("#Au").css("background-color","green");
            break;
-           default: Au.css("background-color","red");
+           default: $("#Au").css("background-color","red");
        }
        //LOGIC FOR THE Au OVER
 
        //LOGIC FOR THE B
-       var inputB = B.val();    
+       var inputB = $("#B input").val();    
        switch(inputB){
-           case "" : B.css("background-color","white");
+           case "" : $("#B").css("background-color","white");
            break;
-           case "B":  B.css("background-color","green");
+           case "B":  $("#B").css("background-color","green");
            break;
-           default: B.css("background-color","red");
+           default: $("#B").css("background-color","red");
        }
        //LOGIC FOR THE B OVER
 
        //LOGIC FOR THE Ba
-       var inputBa = Ba.val();    
+       var inputBa = $("#Ba input").val();    
        switch(inputBa){
-           case "" : Ba.css("background-color","white");
+           case "" : $("#Ba").css("background-color","white");
            break;
-           case "Ba":  Ba.css("background-color","green");
+           case "Ba":  $("#Ba").css("background-color","green");
            break;
-           default: Ba.css("background-color","red");
+           default: $("#Ba").css("background-color","red");
        }
        //LOGIC FOR THE Ba OVER
        
         //LOGIC FOR THE Be
-       var inputBe = Be.val();    
+       var inputBe = $("#Be input").val();    
        switch(inputBe){
-           case "" : Be.css("background-color","white");
+           case "" : $("#Be").css("background-color","white");
            break;
-           case "Be":  Be.css("background-color","green");
+           case "Be":  $("#Be").css("background-color","green");
            break;
-           default: Be.css("background-color","red");
+           default: $("#Be").css("background-color","red");
        }
        //LOGIC FOR THE Be OVER
        
         //LOGIC FOR THE Bh
-       var inputBh = Bh.val();    
+       var inputBh = $("#Bh input").val();    
        switch(inputBh){
-           case "" : Bh.css("background-color","white");
+           case "" : $("#Bh").css("background-color","white");
            break;
-           case "Bh":  Bh.css("background-color","green");
+           case "Bh":  $("#Bh").css("background-color","green");
            break;
-           default: Bh.css("background-color","red");
+           default: $("#Bh").css("background-color","red");
        }
        //LOGIC FOR THE Bh OVER
        
         //LOGIC FOR THE Bi
-       var inputBi = Bi.val();    
+       var inputBi = $("#Bi input").val();    
        switch(inputBi){
-           case "" : Bi.css("background-color","white");
+           case "" : $("#Bi").css("background-color","white");
            break;
-           case "Bi":  Bi.css("background-color","green");
+           case "Bi":  $("#Bi").css("background-color","green");
            break;
-           default: Bi.css("background-color","red");
+           default: $("#Bi").css("background-color","red");
        }
        //LOGIC FOR THE Bi OVER
        
