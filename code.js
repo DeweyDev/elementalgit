@@ -20,13 +20,23 @@
 
 	});
 
+		$('#homepageButton2').click(function(){
+
+		$(".everythingButHomepage").hide('slow');
+		$("#menuDiv").hide('slow');
+		$("#homepageDiv").show('slow');
+		$('#advertisements').show('slow');
+		$('#authors').show('slow');
+
+	});
+
 	$('#aboutButton').click(function(){
 
 		$(".everythingButHomepage").hide('slow');
 		$('#advertisements').hide('slow');
 		$('#authors').hide('slow');
 		$("#aboutDiv").show('slow');
-
+		$("#homepageDiv").hide('slow');
 	});
 
 		$('#aboutButton2').click(function(){
@@ -35,7 +45,7 @@
 		$('#advertisements').hide('slow');
 		$('#authors').hide('slow');
 		$("#aboutDiv").show('slow');
-
+		$("#homepageDiv").hide('slow');
 	});
 
 
