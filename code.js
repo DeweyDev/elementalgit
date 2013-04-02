@@ -2,6 +2,7 @@
 
 	$('.everythingButHomepage').hide();
 	$('.quizQuestions').hide();
+	$('.explanationDiv').hide();
 	
 	var arrayLoopingVar = 0;
 	var correctScore = 0;
@@ -101,8 +102,10 @@
 					$('#answerCheckerModalTitle').text("Correct!");
 
 					// Make the popup show
+
+					$('#answerCheckerModalBody').empty();
+					$('#answerCheckerModalBody').append($("#" + "explanation" + numRanSequenceBank[arrayLoopingVar]).html());
 					$('#answerCheckerModal').modal('show');
-					$('#answerCheckerModalBody').html('');
 
 					// Increment score counter
 
@@ -119,6 +122,9 @@
 					$('#answerCheckerModalTitle').text("Wrong!");
 
 					// Make the popup show
+					
+					$('#answerCheckerModalBody').empty();
+					$('#answerCheckerModalBody').append($("#" + "explanation" + numRanSequenceBank[arrayLoopingVar]).html());
 					$('#answerCheckerModal').modal('show');
 
 					// Increment score counter
