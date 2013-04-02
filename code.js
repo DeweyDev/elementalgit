@@ -20,6 +20,25 @@
 
 	});
 
+	$('#aboutButton').click(function(){
+
+		$(".everythingButHomepage").hide('slow');
+		$('#advertisements').hide('slow');
+		$('#authors').hide('slow');
+		$("#aboutDiv").show('slow');
+
+	});
+
+		$('#aboutButton2').click(function(){
+
+		$(".everythingButHomepage").hide('slow');
+		$('#advertisements').hide('slow');
+		$('#authors').hide('slow');
+		$("#aboutDiv").show('slow');
+
+	});
+
+
 	$('#playButton').click(function(){
 		
 		$("#homepageDiv").hide('slow');
